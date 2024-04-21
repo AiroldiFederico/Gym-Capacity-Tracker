@@ -1,0 +1,21 @@
+# Ignora la cartella dell'ambiente virtuale
+venv/
+
+# File di sistema operativo
+.DS_Store
+Thumbs.db
+
+# Cartelle e file temporanei di Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File di database locali
+*.db
+
+# File di log
+*.log
+
+# Directory di configurazione dell'IDE (es. PyCharm, VSCode)
+.idea/
+.vscode/
